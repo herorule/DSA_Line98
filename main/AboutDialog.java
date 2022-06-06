@@ -106,6 +106,6 @@ public class AboutDialog extends JDialog {
 	/**
 	 * My home page address
 	 */
-	private static final String address = "https://github.com/herorule/DSA-Line-98";
+	private static final String address = "https://github.com/herorule/DSA_Line98";
 	private static final long serialVersionUID = 1L;
 }
